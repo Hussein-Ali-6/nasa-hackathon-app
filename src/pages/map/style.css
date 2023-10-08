@@ -1,0 +1,380 @@
+.map-container {
+  width: 100%;
+  height: 100vh;
+  background-image: url("/src/assets/World-map.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.position-001 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.position-001 .circle-01 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 264px;
+  left: 79px;
+}
+.position-001 .circle-02 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 295px;
+  left: 93px;
+}
+.position-001 .circle-03 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 323px;
+  left: 118px;
+}
+.position-001 .circle-04 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 347px;
+  left: 149px;
+}
+.position-001 .circle-05 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 364px;
+  left: 182px;
+}
+.position-001 .circle-06 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 391px;
+  left: 217px;
+}
+.position-001 .circle-07 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 425px;
+  left: 215px;
+}
+.position-001 .circle-08 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 454px;
+  left: 218px;
+}
+.position-001 .circle-09 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 485px;
+  left: 235px;
+}
+.position-001 .circle-10 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 511px;
+  left: 255px;
+}
+.position-001 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.position-001 .circle-11 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 480px;
+  left: 461px;
+}
+.position-001 .circle-12 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 506px;
+  left: 450px;
+}
+.position-001 .circle-13 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 447px;
+  left: 468px;
+}
+.position-001 .circle-14 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 426px;
+  left: 442px;
+}
+.position-001 .circle-15 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 406px;
+  left: 406px;
+}
+.position-001 .circle-16 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 383px;
+  left: 380px;
+}
+.position-001 .circle-17 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 361px;
+  left: 348px;
+}
+.position-001 .circle-18 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 346px;
+  left: 313px;
+}
+.position-001 .circle-19 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 337px;
+  left: 274px;
+}
+.position-001 .circle-20 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 320px;
+  left: 234px;
+}
+.position-001 .circle-21 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 298px;
+  left: 188px;
+}
+.position-001 .circle-22 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 278px;
+  left: 218px;
+}
+.position-001 .circle-23 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 258px;
+  left: 274px;
+}
+.position-001 .circle-24 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 235px;
+  left: 302px;
+}
+.position-001 .circle-25 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 364px;
+  left: 182px;
+}
+.position-001 .circle-26 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 391px;
+  left: 217px;
+}
+.position-001 .circle-27 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 425px;
+  left: 215px;
+}
+.position-001 .circle-28 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 454px;
+  left: 218px;
+}
+.position-001 .circle-29 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 485px;
+  left: 235px;
+}
+.position-001 .circle-30 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 511px;
+  left: 255px;
+}
+.position-001 .circle-31 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 264px;
+  left: 79px;
+}
+.position-001 .circle-32 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 295px;
+  left: 93px;
+}
+.position-001 .circle-33 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 323px;
+  left: 118px;
+}
+.position-001 .circle-34 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 347px;
+  left: 149px;
+}
+.position-001 .circle-35 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 364px;
+  left: 182px;
+}
+.position-001 .circle-36 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 391px;
+  left: 217px;
+}
+.position-001 .circle-37 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 425px;
+  left: 215px;
+}
+.position-001 .circle-38 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 454px;
+  left: 218px;
+}
+.position-001 .circle-39 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 485px;
+  left: 235px;
+}
+.position-001 .circle-40 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  top: 511px;
+  left: 255px;
+}
